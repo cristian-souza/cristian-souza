@@ -1,9 +1,9 @@
 # Bem-vindo(a) ao perfil do Cristian Souza 😁
 
  <div>
-   <a href="https://github.com/crissouzadev">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crissouzadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crissouzadev&layout=compact&langs_count=6&theme=dracula"/>
+   <a href="https://github.com/cristiansouza">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristiansouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiansouza&layout=compact&langs_count=6&theme=dracula"/>
 </div>
     
 <div style="display: inline_block"><br>
