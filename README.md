@@ -79,5 +79,5 @@ Sou um entusiasta da tecnologia e estudante focado em construir interfaces moder
 
 <p align="center">
   <i>"Grandes sistemas são construídos com pequenos experimentos bem feitos."</i> <br>
-  <b>🧪 Cristian Souza | Software Lab Engineer</b>
+  <b>🧪 Cristian Souza </b>
 </p>
