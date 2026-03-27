@@ -1,7 +1,7 @@
 # 🧪 Cristian Souza | Software Lab Engineer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Desenvolvedor+Frontend;Software+Lab+Engineer;Estudante+de+Engenharia;Transformando+caf%C3%A9+em+c%C3%B3digo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Software+Lab+Engineer;Estudante+de+Engenharia;Transformando+caf%C3%A9+em+c%C3%B3digo" alt="Typing SVG" />
 </p>
 
 <p align="center">
